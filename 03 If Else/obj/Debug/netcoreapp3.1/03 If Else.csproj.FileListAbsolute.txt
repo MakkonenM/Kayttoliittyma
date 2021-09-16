@@ -1,0 +1,17 @@
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\bin\Debug\netcoreapp3.1\03 If Else.exe
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\bin\Debug\netcoreapp3.1\03 If Else.deps.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\bin\Debug\netcoreapp3.1\03 If Else.runtimeconfig.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\bin\Debug\netcoreapp3.1\03 If Else.runtimeconfig.dev.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\bin\Debug\netcoreapp3.1\03 If Else.dll
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\bin\Debug\netcoreapp3.1\03 If Else.pdb
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.csproj.AssemblyReference.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\_01_Windows_Forms.Form1.resources
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\_01_Windows_Forms.Properties.Resources.resources
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.csproj.GenerateResource.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.AssemblyInfoInputs.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.AssemblyInfo.cs
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.csproj.CoreCompileInputs.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.dll
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.pdb
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\03 If Else\obj\Debug\netcoreapp3.1\03 If Else.genruntimeconfig.cache

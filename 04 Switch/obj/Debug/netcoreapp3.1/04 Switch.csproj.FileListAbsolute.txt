@@ -1,0 +1,17 @@
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\bin\Debug\netcoreapp3.1\04 Switch.exe
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\bin\Debug\netcoreapp3.1\04 Switch.deps.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\bin\Debug\netcoreapp3.1\04 Switch.runtimeconfig.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\bin\Debug\netcoreapp3.1\04 Switch.runtimeconfig.dev.json
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\bin\Debug\netcoreapp3.1\04 Switch.dll
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\bin\Debug\netcoreapp3.1\04 Switch.pdb
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.csproj.AssemblyReference.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\_04_Switch.Pääformi.resources
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.csproj.GenerateResource.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.AssemblyInfoInputs.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.AssemblyInfo.cs
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.csproj.CoreCompileInputs.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.dll
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.pdb
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\04 Switch.genruntimeconfig.cache
+C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\04 Switch\04 Switch\obj\Debug\netcoreapp3.1\_04_Switch.Properties.Resources.resources

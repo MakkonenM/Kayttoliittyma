@@ -14,3 +14,19 @@ C:\Users\miksu\Desktop\Ohjelmointi\Käyttöliittymä\05 For\bin\Debug\netcoreapp
 C:\Users\miksu\Desktop\Ohjelmointi\Käyttöliittymä\05 For\obj\Debug\netcoreapp3.1\05 For.dll
 C:\Users\miksu\Desktop\Ohjelmointi\Käyttöliittymä\05 For\obj\Debug\netcoreapp3.1\05 For.pdb
 C:\Users\miksu\Desktop\Ohjelmointi\Käyttöliittymä\05 For\obj\Debug\netcoreapp3.1\05 For.genruntimeconfig.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\bin\Debug\netcoreapp3.1\05 For.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\bin\Debug\netcoreapp3.1\05 For.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\bin\Debug\netcoreapp3.1\05 For.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\bin\Debug\netcoreapp3.1\05 For.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\bin\Debug\netcoreapp3.1\05 For.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\bin\Debug\netcoreapp3.1\05 For.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\_05_For.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\05 For\obj\Debug\netcoreapp3.1\05 For.genruntimeconfig.cache

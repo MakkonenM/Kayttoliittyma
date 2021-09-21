@@ -1,0 +1,16 @@
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\bin\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\bin\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\bin\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\bin\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\bin\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\bin\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\_09_List_ja_Foreach_silmukat.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\09 List ja Foreach-silmukat\obj\Debug\netcoreapp3.1\09 List ja Foreach-silmukat.genruntimeconfig.cache

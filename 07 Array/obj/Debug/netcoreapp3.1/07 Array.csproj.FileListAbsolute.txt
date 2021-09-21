@@ -1,0 +1,16 @@
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\bin\Debug\netcoreapp3.1\07 Array.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\bin\Debug\netcoreapp3.1\07 Array.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\bin\Debug\netcoreapp3.1\07 Array.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\bin\Debug\netcoreapp3.1\07 Array.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\bin\Debug\netcoreapp3.1\07 Array.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\bin\Debug\netcoreapp3.1\07 Array.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\_07_Array.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\07 Array\obj\Debug\netcoreapp3.1\07 Array.genruntimeconfig.cache

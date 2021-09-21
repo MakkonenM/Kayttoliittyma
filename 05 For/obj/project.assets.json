@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Miksumi\\.nuget\\packages\\": {},
+    "C:\\Users\\miksu\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\05 For\\05 For.csproj",
+      "projectUniqueName": "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\05 For\\05 For.csproj",
       "projectName": "05 For",
-      "projectPath": "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\05 For\\05 For.csproj",
-      "packagesPath": "C:\\Users\\Miksumi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\05 For\\obj\\",
+      "projectPath": "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\05 For\\05 For.csproj",
+      "packagesPath": "C:\\Users\\miksu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\05 For\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Miksumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\miksu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

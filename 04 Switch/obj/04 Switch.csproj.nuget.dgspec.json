@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\04 Switch\\04 Switch\\04 Switch.csproj": {}
+    "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\04 Switch\\04 Switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\04 Switch\\04 Switch\\04 Switch.csproj": {
+    "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\04 Switch\\04 Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\04 Switch\\04 Switch\\04 Switch.csproj",
+        "projectUniqueName": "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\04 Switch\\04 Switch.csproj",
         "projectName": "04 Switch",
-        "projectPath": "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\04 Switch\\04 Switch\\04 Switch.csproj",
-        "packagesPath": "C:\\Users\\Miksumi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miksumi\\Desktop\\Ohjelmointi\\Käyttöliittymä\\04 Switch\\04 Switch\\obj\\",
+        "projectPath": "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\04 Switch\\04 Switch.csproj",
+        "packagesPath": "C:\\Users\\miksu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miksu\\Desktop\\Ohjelmointi\\Käyttöiittymä\\04 Switch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Miksumi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\miksu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

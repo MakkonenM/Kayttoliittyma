@@ -16,29 +16,34 @@ namespace _07_Array
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        protected override void OnFormClosing(FormClosingEventArgs e)
         {
-            
+            if (CloseCancel() == false)
+            {
+                e.Cancel = true;
+            }
+        }
+        public static bool CloseCancel()
+        {
+            const string message = "Haluatko varmasti poistua sovelluksesta?";
+            const string caption = "Poistu Sovelluksesta";
+            var result = MessageBox.Show(message, caption,
+                                         MessageBoxButtons.YesNo,
+                                         MessageBoxIcon.Question);
+
+            if (result == DialogResult.Yes)
+                return true;
+            else
+                return false;
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnLuoTaulukko_Click(object sender, EventArgs e)
         {
+            string taulukko;
+            int d;
+            d = int.Parse(textBox1.Text);
 
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
+            taulukko = new int [d];
 
         }
     }

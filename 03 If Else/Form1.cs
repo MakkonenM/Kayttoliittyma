@@ -14,97 +14,48 @@ namespace _01_Windows_Forms
 
     {
         string currentYear = DateTime.Now.Year.ToString();
-        
-
         public Form1()
         {
             InitializeComponent();
             this.ActiveControl = textBox4;
             textBox2.Focus();
         }
-        private void Form1_Load(object sender, EventArgs e)
+        protected override void OnFormClosing(FormClosingEventArgs e)
         {
-
+            if (CloseCancel() == false)
+            {
+                e.Cancel = true;
+            }
         }
-
-        private void label1_Click(object sender, EventArgs e)
+        public static bool CloseCancel()
         {
+            const string message = "Haluatko varmasti poistua sovelluksesta?";
+            const string caption = "Poistu Sovelluksesta";
+            var result = MessageBox.Show(message, caption,
+                                         MessageBoxButtons.YesNo,
+                                         MessageBoxIcon.Question);
 
-        }
-
-        private void Toiminnallisuus_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox2_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click_1(object sender, EventArgs e)
-        {
-
+            if (result == DialogResult.Yes)
+                return true;
+            else
+                return false;
         }
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             textBox1.ReadOnly = true;
         }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void PoistuToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
-
         private void infoToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Tämän sovelluksen on tehnyt Mikael Makkonen");
         }
-
-        private void tietojaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void tiedostoToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
         }
-
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "0";
@@ -114,16 +65,6 @@ namespace _01_Windows_Forms
             richTextBox1.Text = "[Kirjoita arvio tähän]";
 
             textBox2.Focus();
-        }
-
-        private void testaaTietokantayhteyttäToolStripMenuItem1_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void richTextBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
         private void textBox2_KeyDown(object sender, KeyEventArgs e)
         {
@@ -142,6 +83,8 @@ namespace _01_Windows_Forms
 
         private void button2_Click(object sender, EventArgs e)
         {
+            int parsedValue;
+
             if (string.IsNullOrEmpty(textBox2.Text))
             {
                 MessageBox.Show("Et ole syöttänyt mitään nimi-kenttään!");
@@ -150,9 +93,17 @@ namespace _01_Windows_Forms
             {
                 MessageBox.Show("Et ole syöttänyt mitään julkaisuvuosi-kenttään!");
             }
+            else if (!int.TryParse(textBox3.Text, out parsedValue))
+            {
+                MessageBox.Show("Julkaisuvuosi-kenttä hyväksyy ainoastaan kirjaimia!");
+            }
             else if (string.IsNullOrEmpty(textBox4.Text))
             {
                 MessageBox.Show("Et ole syöttänyt mitään kesto-kenttään!");
+            }
+            else if (!int.TryParse(textBox4.Text, out parsedValue))
+            {
+                MessageBox.Show("Julkaisuvuosi-kenttä hyväksyy ainoastaan kirjaimia!");
             }
             else
             {
@@ -160,7 +111,7 @@ namespace _01_Windows_Forms
             }
         }
 
-
+        // Toimisi ehkä myös tällä taktiikalla
 
         // if methodi joka ei hyväksy kirjaimia
 

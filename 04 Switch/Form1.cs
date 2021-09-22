@@ -16,12 +16,26 @@ namespace _04_Switch
         {
             InitializeComponent();
         }
-
-        private void Pääformi_Load(object sender, EventArgs e)
+        protected override void OnFormClosing(FormClosingEventArgs e)
         {
-
+            if (CloseCancel() == false)
+            {
+                e.Cancel = true;
+            }
         }
+        public static bool CloseCancel()
+        {
+            const string message = "Haluatko varmasti poistua sovelluksesta?";
+            const string caption = "Poistu Sovelluksesta";
+            var result = MessageBox.Show(message, caption,
+                                         MessageBoxButtons.YesNo,
+                                         MessageBoxIcon.Question);
 
+            if (result == DialogResult.Yes)
+                return true;
+            else
+                return false;
+        }
         private void button1_Click(object sender, EventArgs e)
         {
 

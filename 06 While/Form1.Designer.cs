@@ -37,7 +37,7 @@ namespace _06_While
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(200, 109);
+            this.button1.Location = new System.Drawing.Point(102, 92);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(393, 159);
             this.button1.TabIndex = 0;
@@ -53,7 +53,7 @@ namespace _06_While
             this.fileToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(617, 28);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -67,12 +67,12 @@ namespace _06_While
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(617, 328);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Pääformi";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

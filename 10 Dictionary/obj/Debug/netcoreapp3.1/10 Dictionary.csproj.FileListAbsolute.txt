@@ -1,0 +1,16 @@
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\bin\Debug\netcoreapp3.1\10 Dictionary.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\bin\Debug\netcoreapp3.1\10 Dictionary.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\bin\Debug\netcoreapp3.1\10 Dictionary.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\bin\Debug\netcoreapp3.1\10 Dictionary.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\bin\Debug\netcoreapp3.1\10 Dictionary.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\bin\Debug\netcoreapp3.1\10 Dictionary.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\_10_Dictionary.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\10 Dictionary\obj\Debug\netcoreapp3.1\10 Dictionary.genruntimeconfig.cache

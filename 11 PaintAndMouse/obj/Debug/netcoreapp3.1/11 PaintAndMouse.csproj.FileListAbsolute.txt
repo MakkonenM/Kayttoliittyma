@@ -1,0 +1,16 @@
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\bin\Debug\netcoreapp3.1\11 PaintAndMouse.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\bin\Debug\netcoreapp3.1\11 PaintAndMouse.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\bin\Debug\netcoreapp3.1\11 PaintAndMouse.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\bin\Debug\netcoreapp3.1\11 PaintAndMouse.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\bin\Debug\netcoreapp3.1\11 PaintAndMouse.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\bin\Debug\netcoreapp3.1\11 PaintAndMouse.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\_11_PaintAndMouse.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\11 PaintAndMouse\obj\Debug\netcoreapp3.1\11 PaintAndMouse.genruntimeconfig.cache

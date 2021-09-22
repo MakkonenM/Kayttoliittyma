@@ -14,3 +14,19 @@ C:\Users\miksu\source\repos\06 While\obj\Debug\netcoreapp3.1\06 While.csproj.Cor
 C:\Users\miksu\source\repos\06 While\obj\Debug\netcoreapp3.1\06 While.dll
 C:\Users\miksu\source\repos\06 While\obj\Debug\netcoreapp3.1\06 While.pdb
 C:\Users\miksu\source\repos\06 While\obj\Debug\netcoreapp3.1\06 While.genruntimeconfig.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\bin\Debug\netcoreapp3.1\06 While.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\bin\Debug\netcoreapp3.1\06 While.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\bin\Debug\netcoreapp3.1\06 While.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\bin\Debug\netcoreapp3.1\06 While.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\bin\Debug\netcoreapp3.1\06 While.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\bin\Debug\netcoreapp3.1\06 While.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\_06_While.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\06 While\obj\Debug\netcoreapp3.1\06 While.genruntimeconfig.cache

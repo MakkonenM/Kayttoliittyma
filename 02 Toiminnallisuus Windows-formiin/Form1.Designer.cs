@@ -81,8 +81,7 @@ namespace _01_Windows_Forms
             this.tiedostoToolStripMenuItem.Name = "tiedostoToolStripMenuItem";
             this.tiedostoToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
             this.tiedostoToolStripMenuItem.Text = "Tiedosto";
-            this.tiedostoToolStripMenuItem.Click += new System.EventHandler(this.tiedostoToolStripMenuItem_Click);
-            // 
+            //
             // Poistu
             // 
             this.Poistu.Name = "Poistu";
@@ -98,14 +97,12 @@ namespace _01_Windows_Forms
             this.tietojaToolStripMenuItem.Name = "tietojaToolStripMenuItem";
             this.tietojaToolStripMenuItem.Size = new System.Drawing.Size(54, 20);
             this.tietojaToolStripMenuItem.Text = "Tietoja";
-            this.tietojaToolStripMenuItem.Click += new System.EventHandler(this.tietojaToolStripMenuItem_Click);
             // 
             // testaaTietokantayhteyttäToolStripMenuItem1
             // 
             this.testaaTietokantayhteyttäToolStripMenuItem1.Name = "testaaTietokantayhteyttäToolStripMenuItem1";
             this.testaaTietokantayhteyttäToolStripMenuItem1.Size = new System.Drawing.Size(205, 22);
             this.testaaTietokantayhteyttäToolStripMenuItem1.Text = "Testaa tietokantayhteyttä";
-            this.testaaTietokantayhteyttäToolStripMenuItem1.Click += new System.EventHandler(this.testaaTietokantayhteyttäToolStripMenuItem1_Click);
             // 
             // infoToolStripMenuItem
             // 
@@ -177,7 +174,6 @@ namespace _01_Windows_Forms
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Elokuvan tiedot";
-            this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
             // button5
             // 
@@ -196,7 +192,6 @@ namespace _01_Windows_Forms
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(252, 16);
             this.textBox2.TabIndex = 7;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             this.textBox2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox2_KeyDown);
             // 
             // button4
@@ -216,7 +211,6 @@ namespace _01_Windows_Forms
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(141, 16);
             this.textBox3.TabIndex = 6;
-            this.textBox3.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
             // 
             // textBox4
             // 
@@ -225,7 +219,6 @@ namespace _01_Windows_Forms
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(141, 16);
             this.textBox4.TabIndex = 5;
-            this.textBox4.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             this.textBox4.KeyDown += new System.Windows.Forms.KeyEventHandler(this.textBox4_KeyDown);
             // 
             // label_Nimi
@@ -237,7 +230,6 @@ namespace _01_Windows_Forms
             this.label_Nimi.Size = new System.Drawing.Size(36, 15);
             this.label_Nimi.TabIndex = 4;
             this.label_Nimi.Text = "Nimi:";
-            this.label_Nimi.Click += new System.EventHandler(this.label4_Click);
             // 
             // label_Julkaisuvuosi
             // 
@@ -247,7 +239,6 @@ namespace _01_Windows_Forms
             this.label_Julkaisuvuosi.Size = new System.Drawing.Size(79, 15);
             this.label_Julkaisuvuosi.TabIndex = 3;
             this.label_Julkaisuvuosi.Text = "Julkaisuvuosi:";
-            this.label_Julkaisuvuosi.Click += new System.EventHandler(this.label3_Click);
             // 
             // label_kesto
             // 
@@ -257,7 +248,6 @@ namespace _01_Windows_Forms
             this.label_kesto.Size = new System.Drawing.Size(71, 15);
             this.label_kesto.TabIndex = 2;
             this.label_kesto.Text = "Kesto (min):";
-            this.label_kesto.Click += new System.EventHandler(this.label2_Click);
             // 
             // label_ID
             // 
@@ -268,7 +258,6 @@ namespace _01_Windows_Forms
             this.label_ID.Size = new System.Drawing.Size(21, 15);
             this.label_ID.TabIndex = 1;
             this.label_ID.Text = "ID:";
-            this.label_ID.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // textBox1
             // 
@@ -301,7 +290,6 @@ namespace _01_Windows_Forms
             this.richTextBox1.Size = new System.Drawing.Size(353, 117);
             this.richTextBox1.TabIndex = 3;
             this.richTextBox1.Text = "";
-            this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
             // numericUpDown2
             // 
@@ -316,7 +304,6 @@ namespace _01_Windows_Forms
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(44, 23);
             this.numericUpDown1.TabIndex = 1;
-            this.numericUpDown1.ValueChanged += new System.EventHandler(this.numericUpDown1_ValueChanged);
             // 
             // label5
             // 
@@ -338,7 +325,6 @@ namespace _01_Windows_Forms
             this.Controls.Add(this.menuStrip1);
             this.Name = "Form1";
             this.Text = "Elokuvasovellus";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.groupBox1.ResumeLayout(false);

@@ -15,3 +15,20 @@ C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\02 Toiminnallisuus Window
 C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.dll
 C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.pdb
 C:\Users\Miksumi\Desktop\Ohjelmointi\Käyttöliittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.genruntimeconfig.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\bin\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\bin\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\bin\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\bin\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\bin\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\bin\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.csproj.AssemblyReference.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\_01_Windows_Forms.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\_01_Windows_Forms.Properties.Resources.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\02 Toiminnallisuus Windows-formiin\obj\Debug\netcoreapp3.1\02 Toiminnallisuus Windows-formiin.genruntimeconfig.cache

@@ -36,8 +36,10 @@ namespace _04_Switch
             else
                 return false;
         }
-        private void button1_Click(object sender, EventArgs e)
+        private void ButtonClick(object sender, EventArgs e)
+
         {
+            Button painettuNappi = sender as Button;
 
         }
     }

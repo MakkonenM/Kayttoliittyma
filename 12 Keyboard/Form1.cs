@@ -8,16 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _11_PaintAndMouse
+namespace _12_Keyboard
 {
     public partial class Form1 : Form
     {
-        Point piste = new Point(520, 333);
-
+        Point piste = new Point(370, 150);
         public Form1()
         {
             InitializeComponent();
         }
+
         protected override void OnFormClosing(FormClosingEventArgs e)
         {
             if (CloseCancel() == false)
@@ -73,23 +73,30 @@ namespace _11_PaintAndMouse
             new SolidBrush(Color.Black), 8, 30);
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            int txtbox1 = int.Parse(textBox1.Text);
-            int txtbox2 = int.Parse(textBox2.Text);
-
-            piste.X = txtbox1;
-            piste.Y = txtbox2;
-               
-            Invalidate();
-        }
-        private void MainForm_MouseDown(object sender, MouseEventArgs e)
-        {
-            if (e.Button == MouseButtons.Left)
-            { 
-                piste = e.Location;
-                Invalidate();
+            if (e.KeyData == Keys.D)
+            {
+                piste.X += 5;
             }
+            else if (e.KeyData == Keys.A)
+            {
+                piste.X -= 5;
+            }
+            else if (e.KeyData == Keys.W)
+            {
+                piste.Y -= 5;
+            }
+            else if (e.KeyData == Keys.S)
+            {
+                piste.Y += 5;
+            }
+        }
+
+        private void Form1_KeyUp(object sender, KeyEventArgs e)
+        {
+            Invalidate();
+            
         }
     }
 }

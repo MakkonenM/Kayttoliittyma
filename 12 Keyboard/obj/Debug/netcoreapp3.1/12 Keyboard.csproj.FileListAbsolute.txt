@@ -1,0 +1,16 @@
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\bin\Debug\netcoreapp3.1\12 Keyboard.exe
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\bin\Debug\netcoreapp3.1\12 Keyboard.deps.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\bin\Debug\netcoreapp3.1\12 Keyboard.runtimeconfig.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\bin\Debug\netcoreapp3.1\12 Keyboard.runtimeconfig.dev.json
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\bin\Debug\netcoreapp3.1\12 Keyboard.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\bin\Debug\netcoreapp3.1\12 Keyboard.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\_12_Keyboard.Form1.resources
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.csproj.GenerateResource.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.AssemblyInfoInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.AssemblyInfo.cs
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.dll
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.pdb
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.genruntimeconfig.cache
+C:\Users\miksu\Desktop\Ohjelmointi\Käyttöiittymä\12 Keyboard\obj\Debug\netcoreapp3.1\12 Keyboard.csproj.AssemblyReference.cache

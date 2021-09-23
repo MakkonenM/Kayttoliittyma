@@ -46,6 +46,7 @@ namespace _11_PaintAndMouse
             this.button1.TabIndex = 0;
             this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
@@ -102,6 +103,7 @@ namespace _11_PaintAndMouse
             this.Name = "Form1";
             this.Text = "Pääformi";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.MainForm1_Paint);
+            this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.MainForm_MouseDown);
             this.ResumeLayout(false);
             this.PerformLayout();
 

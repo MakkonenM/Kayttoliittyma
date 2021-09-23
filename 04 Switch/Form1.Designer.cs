@@ -64,7 +64,6 @@ namespace _04_Switch
             this.button1.TabIndex = 1;
             this.button1.Text = "Valinta 1";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -116,7 +115,6 @@ namespace _04_Switch
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Pääformi";
             this.Text = "Pääformi";
-            this.Load += new System.EventHandler(this.Pääformi_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
